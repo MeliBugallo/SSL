@@ -1,1 +1,2 @@
-Compilador seleccionado: GCC
+## Compilador
+GCC
