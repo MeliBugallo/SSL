@@ -1,3 +1,2 @@
 # SSL
-Melina Marisol Bugallo  
-K2002
+Este es el repositorio personal de Melina Marisol Bugallo, comisión K2002
