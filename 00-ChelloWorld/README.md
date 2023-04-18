@@ -1,2 +1,2 @@
-## Compilador
-GCC
+## TP0-Hello, Word!
+Compilador usado: GCC
