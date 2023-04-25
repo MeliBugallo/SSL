@@ -1,2 +1,5 @@
 ## TP0-Hello, World!
-Compilador usado: GCC
+Compilador usado: MinGW, GCC version 12.1.0 
+
+<rb>
+Estándar: C18
